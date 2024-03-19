@@ -7,7 +7,7 @@ Term: Spring 2024
 
 + Team 9
 + Team members
-	+ Yang, Yu
+	+ Yu, Yang
 	+ Wang, Jingqi
 	+ Lee, Rhoan
 	+ Zhou, Jitian
